@@ -1,1 +1,1 @@
-![Logo](/programming-logo.jpg "Logo")
+![Logo](programming-logo.jpg "Logo")
